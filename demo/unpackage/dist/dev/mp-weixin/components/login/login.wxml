@@ -1,0 +1,1 @@
+<view class="login-wrap"><uni-icons vue-id="692f7a2e-1" type="contact" size="100" color="#cccccc" bind:__l="__l"></uni-icons><button class="btn-login" type="primary" data-event-opts="{{[['tap',[['getUserInfo',['$event']]]]]}}" bindtap="__e">一键登录</button></view>

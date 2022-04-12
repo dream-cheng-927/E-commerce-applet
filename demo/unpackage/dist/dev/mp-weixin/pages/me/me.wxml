@@ -1,0 +1,1 @@
+<view><block wx:if="{{userInfo.avatarUrl===undefined}}"><login vue-id="8e55f700-1" bind:__l="__l"></login></block><block wx:else><userinfo vue-id="8e55f700-2" bind:__l="__l"></userinfo></block></view>

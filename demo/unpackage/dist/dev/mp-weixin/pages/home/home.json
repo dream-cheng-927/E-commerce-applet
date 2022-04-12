@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "购物首页",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "search": "/components/search/search"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": true,
+  "backgroundColor": "#fff",
+  "usingComponents": {
+    "goods": "/components/goods/goods"
+  }
+}

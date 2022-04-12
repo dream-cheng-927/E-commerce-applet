@@ -1,0 +1,60 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/category/category",
+          "pathName": "pages/category/category",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/home/home",
+          "pathName": "pages/home/home",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "subPackages/search/search",
+          "pathName": "subPackages/search/search",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "subPackages/goodsList/goodsList",
+          "pathName": "subPackages/goodsList/goodsList",
+          "query": "query=口红",
+          "scene": null
+        },
+        {
+          "name": "subPackages/goodsDetail/goodsDetail",
+          "pathName": "subPackages/goodsDetail/goodsDetail",
+          "query": "goods_id=14",
+          "scene": null
+        },
+        {
+          "name": "pages/cart/cart",
+          "pathName": "pages/cart/cart",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/me/me",
+          "pathName": "pages/me/me",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
